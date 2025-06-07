@@ -103,3 +103,5 @@ df = pd.DataFrame([row])
 df.to_excel("astrologisk_rad.xlsx", index=False, header=False)
 
 print("Ferdig! Resultat lagret i 'astrologisk_rad.xlsx'")
+
+# Test
